@@ -4,7 +4,7 @@ A Simple, Responsive, And User-Friendly Calculator Built Using HTML, CSS, And Ja
 
 🚀 Live Demo
 
-[View Live Calculator](https://vignesh-0411.github.io/calculator/)
+[View Project](https://vignesh-0411.github.io/calculator/)
 
 ✨ Features
 
